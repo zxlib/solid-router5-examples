@@ -11,6 +11,7 @@
     "router5-plugin-browser": "^8.0.1",
     "solid-js": "^0.18.10",
     "solid-scripts": "0.0.35",
+    "@zxlib/solid-router5": "^0.0.1",
     "typescript": "3.9.3"
   },
   "scripts": {
